@@ -5,10 +5,10 @@
    Fortunately, [Inside Airbnb](http://insideairbnb.com/get-the-data.html) has already aggregated all the publicly available informations from Airbnb site for public discussion. So, the dataset obtained from this website directly should be a good starting point for my machine learning model. In particular, I will the dataset collected in New York city compiled on 06 December, 2018. When selecting features for machine learning model, besides the variables provided in the datasets, the __featured photo__ on the listing's website and the __description__ of listing can be crucial for attracting more guests. So, I will analyze featured photos and text mining on the descriptions and add these two new features to improve the machine learning model. 
 
 The project will be described as follows:
-    1. **Exploratory data analysis and data preprocessing:** Get an insight of the dataset and clean the data for later analysis.
-    2. **Feature engineering:** Analyze the text in "description" and featured photo on the listing website. Topic and image score will be added as two new features for the machine learning model.
-    3. **Machine learning model:** Apply different machine learning algorithms and fine tune the best model.
-    4. **Model evaulation:** Evaluate the robustness of the final model
+ 1. **Exploratory data analysis and data preprocessing:** Get an insight of the dataset and clean the data for later analysis.
+ 2. **Feature engineering:** Analyze the text in "description" and featured photo on the listing website. Topic and image score will be added as two new features for the machine learning model.
+ 3. **Machine learning model:** Apply different machine learning algorithms and fine tune the best model.
+ 4. **Model evaulation:** Evaluate the robustness of the final model
     
  ## Author
  __Chao Li__
