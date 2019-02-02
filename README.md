@@ -6,7 +6,7 @@ Airbnb is a popular home-sharing platform that provides people all over the worl
  <p align="justify"> 
 Fortunately, Inside Airbnb (http://insideairbnb.com) has already aggregated all the publicly available informations from Airbnb site for public discussion. So, the dataset obtained from this website directly should be a good starting point for my machine learning model. In particular, I will the dataset collected in Los Angeles compiled on 06 December, 2018. 
 
-Besides the features already in the dataset, there are two features are also important: photo and description of your house. An attractive photo with appropriate description can boost the room’s popularity, so I will engineer two more features and add them into the model to improve the accuracy. </p>
+Besides the features already in the dataset, there are two features are also important: **photo** and **description** of your house. An attractive photo with appropriate description can boost the room’s popularity, so I will engineer two more features and add them into the model to improve the accuracy. </p>
 
 The project will be described as follows:
  1. **Exploratory data analysis and data preprocessing:** Get an insight of the dataset and clean the data for later analysis.
