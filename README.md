@@ -12,6 +12,8 @@ The project will be described as follows:
  3. **Machine learning model:** Apply different machine learning algorithms and fine tune the best model.
  4. **Model evaulation:** Evaluate the robustness of the final model
  
+In conclusion, the purpose of this project is helping potential hosts to predict the income they can get by listing their extra houses on Airbnb. Furthermore, it would be nice to show that the performance of the machine learning model can be improved by incorporating the information captured from photo and description of the houses. From business point of view, it will be useful for the data science team in such a company to know that there is lots of valuable information in text and images when building similar prediction models.
+ 
  The overall summary of the project can be checked here: https://chaoli.blog/2019/01/25/machine-learning-model-for-airbnb-yield-prediction/
     
  ## Author
