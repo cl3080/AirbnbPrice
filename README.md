@@ -1,4 +1,4 @@
-# Machine Learning Models for Airbnb Yield Prediction
+# Predicting Airbnb Rental Income
 
 <p align="justify"> 
 Airbnb is a great platform that provides people online marketplace and service to arrange or offer lodging. As a travel enthusiast, Airbnb is always my first choice when I am planning a trip. By using filters such as location and room type, I can search for accomodations efficiently. Hosts need to provide details for their houses including prices. For potential hosts, I guess they must be very interested in how much they could earn from putting their houses on Airbnb. As far as I know, there is no such a model for predicting the yield of a new house on Airbnb. So, the object of this project is to build a machine learning model to help potential hosts have intuition about the yield of their listed houses.  </p>
