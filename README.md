@@ -18,7 +18,7 @@ Besides the features already in the dataset, there are two features are also imp
 ![NIMA score](https://github.com/cl3080/Machine_Learning_Models_for_Airbnb_Yield_Prediction/blob/master/NIMA_score_sample_check.png)
 
 2.	Description of the house. Sentiment analysis on description of the house will be carried out using nature language processing. To discover the abstract topics hidden in the text, topic models such as latent Dirichlet allocation will be used. The screenshot of visualizing LDA topic model is shown below, the interactive html page is named as lda_description.html.
-![LDA topic model]((https://github.com/cl3080/Machine_Learning_Models_for_Airbnb_Yield_Prediction/blob/master/Screen_shot_forLDA_model.png))
+![LDA topic model](https://github.com/cl3080/Machine_Learning_Models_for_Airbnb_Yield_Prediction/blob/master/Screen_shot_forLDA_model.png))
 </p>
 
 The project will be described as follows:
