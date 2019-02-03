@@ -16,7 +16,8 @@ Besides the features already in the dataset, there are two features are also imp
 1.	**Photo of the listed house.** The original dataset has the URL link to the webpage of the corresponding listings, so the photos can be scraped from the internet. An attractive photo should have desirable resolution and also be aesthetically attractive. Here I used NIMA: Neural Image Assessment provided by Google to score the image quality on scale of 1 to 10. NIMA scores of some random samples in the dataset are shown below.
 ![NIMA score](https://github.com/cl3080/Machine_Learning_Models_for_Airbnb_Yield_Prediction/blob/master/NIMA_score_sample_check.png)
 
-2.	**Description of the house.** Sentiment analysis on description of the house was carried out using nature language processing. To discover the abstract topics hidden in the text, topic model latent Dirichlet allocation was used. The screenshot of visualizing LDA topic model is shown below, the interactive html page is named as lda_description.html in the repository.
+<p align="justify"> 
+2.	**Description of the house.** Sentiment analysis on description of the house was carried out using nature language processing. To discover the abstract topics hidden in the text, topic model latent Dirichlet allocation was used. The screenshot of visualizing LDA topic model is shown below, the interactive html page is named as lda_description.html in the repository.</p>
 ![LDA topic model](https://github.com/cl3080/Machine_Learning_Models_for_Airbnb_Yield_Prediction/blob/master/Screen_shot_forLDA_model.png))
 </p>
 
