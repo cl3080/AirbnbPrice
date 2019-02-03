@@ -13,7 +13,10 @@ The project will be described as follows:
  2. **Feature engineering:** Analyze the text in "description" and featured photo on the listing website. Topic and image score will be added as two new features for the machine learning model.
  3. **Machine learning model:** Apply different machine learning algorithms and fine tune the best model.
  4. **Model evaulation:** Evaluate the robustness of the final model
- 
+NIMA Score of same radom samples in the dataset
+![NIMA score](https://github.com/cl3080/Machine_Learning_Models_for_Airbnb_Yield_Prediction/blob/master/NIMA_score_sample_check.png)
+
+
  LDA Model 
  ![Image of LDA Model](https://github.com/cl3080/Machine_Learning_Models_for_Airbnb_Yield_Prediction/blob/master/Screen_shot_forLDA_model.png)
  
