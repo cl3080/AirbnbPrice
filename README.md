@@ -19,8 +19,8 @@ The project will be described as follows:
  1. **Exploratory data analysis and data preprocessing:** Get an insight of the dataset and clean the data for later analysis.
  2. **Feature engineering:** Analyze the text in "description" and web photo for each listings. Topic and image score will be added as two new features for the machine learning model.
  3. **Machine learning model and refinement:** Apply machine learning algorithms and fine tune the best model.
- 4. **Future work:** 
- 5. **Conclusion:**
+ 4. **Future work** 
+ 5. **Conclusion**
  
 <p align="justify"> 
 In conclusion, the purpose of this project is to help potential hosts to decide the price for their new listings. It also shows that there are lots of valuable information can be captured from web photos and descriptions when building a similar machine learning model. Of course, the model shown here is not perfect and needs further investigation.</p> 
